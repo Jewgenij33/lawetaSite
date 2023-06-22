@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="added all project">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/accident_car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/electric_car.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="add section 2: description about company">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/images/index1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/index1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/accident_car.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/accident_car.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/electric_car.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/electric_car.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/images/index1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index1.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
     </list>
@@ -51,10 +50,21 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/main/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.evakuator.lawetaSite.LawetaSiteApplication" />
+      <module name="lawetaSite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687294596924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add section 2: description about company">
+      <created>1687382758995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687382758995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added all project" />
-    <option name="LAST_COMMIT_MESSAGE" value="added all project" />
+    <MESSAGE value="add section 2: description about company" />
+    <option name="LAST_COMMIT_MESSAGE" value="add section 2: description about company" />
   </component>
 </project>
