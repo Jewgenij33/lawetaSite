@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="finished section #2: add images, edited descriptions.">
+    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="add section 3: image and description">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687463691941</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add section 3: image and description">
+      <created>1687988699727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687988699727</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add section 3: image and description">
+      <created>1687988710661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687988710661</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +133,7 @@
     <MESSAGE value="added all project" />
     <MESSAGE value="add section 2: description about company" />
     <MESSAGE value="finished section #2: add images, edited descriptions." />
-    <option name="LAST_COMMIT_MESSAGE" value="finished section #2: add images, edited descriptions." />
+    <MESSAGE value="add section 3: image and description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add section 3: image and description" />
   </component>
 </project>
