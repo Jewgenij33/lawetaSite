@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="add section 3: image and description">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="work on section 3: image in center, unique description, add call-button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687988710661</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="work on section 3: image in center, unique description, add call-button">
+      <created>1688075876312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688075876312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +140,7 @@
     <MESSAGE value="add section 2: description about company" />
     <MESSAGE value="finished section #2: add images, edited descriptions." />
     <MESSAGE value="add section 3: image and description" />
-    <option name="LAST_COMMIT_MESSAGE" value="add section 3: image and description" />
+    <MESSAGE value="work on section 3: image in center, unique description, add call-button" />
+    <option name="LAST_COMMIT_MESSAGE" value="work on section 3: image in center, unique description, add call-button" />
   </component>
 </project>
