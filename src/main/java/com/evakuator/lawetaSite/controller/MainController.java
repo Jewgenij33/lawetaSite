@@ -9,7 +9,7 @@ public class MainController {
 
     @GetMapping("/index")
     public String index(Model model) {
-        model.addAttribute("title", "Эвакуатор Варшава");
+        model.addAttribute("title", "Эвакуатор Варшава, заказать евакуатор Варшава");
         return "index";
     }
 

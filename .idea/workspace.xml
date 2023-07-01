@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="work on section 3: image in center, unique description, add call-button">
+    <list default="true" id="153eda9d-8d87-4111-b825-d085676304c3" name="Changes" comment="finish section 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evakuator/lawetaSite/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evakuator/lawetaSite/controller/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/evakuator/lawetaSite/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/evakuator/lawetaSite/controller/MainController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688075876312</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finish section 3">
+      <created>1688159155439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688159155439</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +149,7 @@
     <MESSAGE value="finished section #2: add images, edited descriptions." />
     <MESSAGE value="add section 3: image and description" />
     <MESSAGE value="work on section 3: image in center, unique description, add call-button" />
-    <option name="LAST_COMMIT_MESSAGE" value="work on section 3: image in center, unique description, add call-button" />
+    <MESSAGE value="finish section 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish section 3" />
   </component>
 </project>
